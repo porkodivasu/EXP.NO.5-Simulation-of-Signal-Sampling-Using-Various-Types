@@ -280,7 +280,6 @@ plt.show()
  IDEAL SAMPLING:
  ![image](https://github.com/user-attachments/assets/34a03a87-b9a7-48a9-83c1-24b3dc54bb15)
  FLAT TOP SAMPLING:
- ![Screenshot (41)](https://github.com/user-attachments/assets/a0f15d90-6e09-4626-9d09-66405d78c9ad)
-
+ 
 # RESULT / CONCLUSIONS
 
